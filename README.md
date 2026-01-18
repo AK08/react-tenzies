@@ -41,6 +41,6 @@ This project focuses on practicing core React concepts such as state management,
 
 ## 📸 ScreenShot
 
-![alt text](image.png)
+<img width="684" height="678" alt="image" src="https://github.com/user-attachments/assets/70e66546-8915-40c6-9290-3b0a4aa6bedc" />
 
-![alt text](image-1.png)
+<img width="732" height="684" alt="image" src="https://github.com/user-attachments/assets/dec856e3-71ea-44f2-95d0-e689fd4613c1" />
